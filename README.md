@@ -5,7 +5,8 @@ Two datasets have been used to train different models.
 
 ### 🌴 RAVDESS 
 This is an english audio-visual DB created by Steven R.Livingstone and Frank A. Russo. For training, I've created **8** folders each corresponds to specific emotion. The folders contains audio files in following manner:
-Emotional Condition | Samples | 
+
+|Emotional Condition | Samples | 
 :------------------:|:--------:|
 Neutral | 96 |
 Angry | 192 |
@@ -18,6 +19,7 @@ Surprised | 192 |
   
 ### 🌴 Berlin DB
 Berlin dataset contains audio samples in **Deutsch** language. Training samples are labeled as:
+
 Emotional Condition | Samples | 
 :------------------:|:--------:|
 Neutral | 79 |
