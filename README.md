@@ -35,10 +35,10 @@ Sad | 62 |
 
 ![RAVDESS](Resources/3D_Feature_Embedding_RAVDASS.png)|
 :----:|
-Fig-1: 3D feature embedding visualization of the RAVDASS Dataset.|
+_**Fig 1: 3D Feature Embedding Visualization of the RAVDASS Dataset**_.|
 
 ✔️ **Berlin DB**: At the Institute for Communication Science of the _Technical University of Berlin_, **Berlin DB** of emotional speech was recorded. This database comprises 10 sentences spoken by 10 actors (5 male and 5 female) who simulated 7 emotional states (neutral, anger, joy, fear, sadness, disgust and boredom) for each of the 10 sentences. The utterances were analyzed with respect to prosodic and segmental features. I've used 4 out of 7 different emotion categories for the training. 
 
 ![BDES](Resources/3D_Feature_Embedding_BERLIN.png)|
 :----:|
-Fig-2: 3D feature embedding visualization of the Berlin (BDES) Dataset.|
+_**Fig 2: 3D Feature Embedding Visualization of the Berlin (BDES) Dataset**_.|
